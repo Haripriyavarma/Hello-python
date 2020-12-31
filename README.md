@@ -1,2 +1,2 @@
 # Hello-python
-This is introduction of python.
+This is to learn python.
